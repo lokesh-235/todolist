@@ -13,7 +13,7 @@ submit.addEventListener('click',
             task.className = `task`;
             tasks.appendChild(task);
             console.log(task);
-            // taskInput.value='';
+            taskInput.value='';
         }
     }
 )
