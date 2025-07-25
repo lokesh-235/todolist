@@ -1,0 +1,14 @@
+body{
+    margin: auto;
+
+    display: flex;
+    justify-content: center;
+    
+    align-items: center;
+     padding: 10px;
+     flex-direction: column;
+    border: 2px solid black; 
+    text-align: center;
+    overflow:visible;
+}
+
